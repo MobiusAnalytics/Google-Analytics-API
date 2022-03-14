@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mobius-ga-api",
+  "private_key_id": "f9d768fd43fc8263ac15c6ef36cd3d4635c0c4d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvPJmDVN1dwf5b\nZMUfLaWqQKTaqHrlDOmszynw7z4Khqk2l6B3Nb/nrn5KAnJvMRE+mvp/VmZxcplM\n037ZmYTplMMnqXh2Hi664xo7yD5I4hkihdwqV3jRD03jJcmjWC9TEKNIlHe1hUOZ\nrHBK47xE0wUP32ZicNIvfuTST5A2xp+JkAKh0NWoXIZlJew36Gm1j4jotu5skr4C\nW52L7vV7xCmPhwiP2ulgBXwaJWFYVcmxQXFbJK4Jk6gXFK1mqLLCAzo3sxfwxjj+\njOi8h9ggQixGPiY5LxSvBZSa1pWpxBahn4N21xQccNi3q/35Q5iWhUql91TT4jye\nhRmFMxB9AgMBAAECggEAHgEJAubkuUE2UUU9iDNbZn2HjIXk9vOBTiyxcHayP4Cj\nl/yZxdeO6nci2f61w8qZuoe0JNnxE/Msgu5CjbT+wDTPvmqCvOy5kRfB/eLxIS8P\nYS0cz6YnAlq1uhMWBZEbl0QlxQ9guNSeyMDxAC2ipoEgIIHeiLPrFSVLviPP3ETY\nn2/4sw6xFjPmkz577w4//0DxpdfbR6oTvx6Ax3HiAkW/yOB9/EIAUKbGJdU/ESl+\nwGe46LxZtZcfPtySSjwg8L8AwMbJxkrhTSBLkhLGikt9aFFSnLLMHKMY5xwqBIW6\nzfuqgbMNbsmxmNJSjfrFzR5lpqtX/tsVL1MJ9AdwyQKBgQDo95WzPNJchB+XZWMw\nC3wnem72uILRkJvJkGdykzcNkYWnKtB5OvAX4O8X5a55Mkc5HkNX9H7w51zJm476\nWhdu1yrlDJkpTkkvajC9+DXyLZr6jymfMyXfc6lUnpToFd5z17CCO1Z3OsAjJV6Y\njMEGUs69JNWlw2Z59g+PGOZr1QKBgQDAj9qbbrQtNUHoCCYtNacQ4PlScg5AFVbN\nubzS4fsNycYwERUmN4QmC/vbl9aec1lMmMyexZBy8zXRUzJ+ao6DIbgo0sDyD4eJ\nDUP8TzhK9GFswBqAJQw6uc6dajB2Si99ARNL003wspl+Ov1lght4GAI1cQCWrXJa\nvMIksFUuCQKBgQCrMVy5ZKV0xMZuO1vi712hqQ+nj7jaBLjmKo5KHLIk713WlNiz\nbUMHWQx5dBd9Chxadcmo9YrevjVqFTzA7bkwgz8LJ/HY76VKCW+d+aqytx6epttA\nGJbpGBZDj3D/Byr713DmknIclXihmxFjanNhkTJIvaud7vP8BXwzfGm+rQKBgHGh\n8m0azPSIoxXcCTtQmAAb4sVGTSZ/8TOB0e3YMSCX235t9j8RL8iL9dpGJf5nL2FG\nIinniDBtWWrnX7q+As9bTKO6iuXNSDwWOfJghWWmBP/59Sl9s1PMZiL6kRKdAJ0R\nz2NFlI7ftjiJcxM9zhv2fwcuYhyIyhzFmwOvkvSRAoGBAIGpOsNf4A7/uNyukAUq\nx5jLkXpx/Kbg6voG+y0MoOJOIVkgQTFEJoBPjOuidHVFlrBxnn/Sah3hce8WHMfI\nbRP4h1Vz8Ka7G5SfrbZvlgOwn5d2HGtLPcztrqlvbXbz3jgIGOT+2G6DmKM6Zvla\nCA4ktW9NOwwqlis9vhHdsYTf\n-----END PRIVATE KEY-----\n",
+  "client_email": "mobius-ga-api@mobius-ga-api.iam.gserviceaccount.com",
+  "client_id": "100948535768895146462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mobius-ga-api%40mobius-ga-api.iam.gserviceaccount.com"
+}
